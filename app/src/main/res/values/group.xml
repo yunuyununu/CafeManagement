@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    DB 내 데이터 불러오는 방식으로 변경-->
+<!--    <string-array name="group">-->
+<!--        <item>coffee</item>-->
+<!--        <item>beverage</item>-->
+<!--        <item>tea</item>-->
+<!--        <item>food</item>-->
+<!--        <item>분류</item>-->
+<!--    </string-array>-->
+</resources>
