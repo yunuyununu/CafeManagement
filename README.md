@@ -1,2 +1,2 @@
 # CafeManagement
-sy - androidproject
+sy - Androidproject
