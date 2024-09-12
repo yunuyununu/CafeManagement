@@ -60,20 +60,9 @@
 
 
 ### 👩‍💻 팀원별 구현 기능
-* [도경민](https://github.com/mindyhere)
-  : 메뉴 관리
-* [박미현](https://github.com/Miihyunee)
-  : 재고 관리
-* [양미영](https://github.com/didaldud)
-  : 메인 화면
-* [조연우](https://github.com/yunuyununu)
-  : 매출 관리 🙋‍♀️
-* [홍재희](https://github.com/jh91019)
-  : 회원 관리
 
   
 ![team](https://github.com/jh91019/android/assets/156145497/6b4284d3-80af-4ee0-8dda-05bd896b2aac)
-
 
 
 * * *
